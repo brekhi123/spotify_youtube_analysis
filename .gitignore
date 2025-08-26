@@ -1,0 +1,12 @@
+# Virtual environment
+spot/
+
+# Kaggle API key
+.kaggle/kaggle.json
+
+# System/hidden files
+*.DS_Store
+~*
+
+# Vscode
+.vscode

@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "$NOT",
+    "track": "Tell Em",
+    "total_views": "41100657",
+    "views_rank": "1"
+  },
+  {
+    "artist": "$NOT",
+    "track": "Like Me (feat. iann dior)",
+    "total_views": "15803517",
+    "views_rank": "2"
+  },
+  {
+    "artist": "$NOT",
+    "track": "Mean",
+    "total_views": "13563870",
+    "views_rank": "3"
+  },
+  {
+    "artist": "$uicideboy$",
+    "track": "Paris",
+    "total_views": "175156959",
+    "views_rank": "1"
+  },
+  {
+    "artist": "$uicideboy$",
+    "track": "For the Last Time",
+    "total_views": "91771038",
+    "views_rank": "2"
+  },
+  {
+    "artist": "$uicideboy$",
+    "track": "Kill Yourself (Part III)",
+    "total_views": "31674988",
+    "views_rank": "3"
+  }
+]
